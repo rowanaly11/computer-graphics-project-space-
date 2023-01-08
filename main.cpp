@@ -67,7 +67,7 @@ glRotatef    (zRotated, 0,0,1);
 //--------stars------------//
 
 
- //star1
+ // small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-5, 1, 0.0);
@@ -78,7 +78,7 @@ glRotatef       (90.0, 1,0,0);
 glutSolidSphere (0.1, 5, 30);
 glPopMatrix ();
 
-//star2
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-3.4, 1.5, 0.0);
@@ -89,7 +89,7 @@ glRotatef       (90.0, 1,0,0);
 glutSolidSphere (0.1, 5, 30);
 glPopMatrix ();
 
-//star3
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-2.5,2.9, 0.0);
@@ -102,7 +102,7 @@ glPopMatrix ();
 
 
 
-//star4
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-3,4, 0.0);
@@ -116,7 +116,7 @@ glPopMatrix ();
 
 
 
-//star4
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-3.7,4.6, 0.0);
@@ -129,7 +129,7 @@ glPopMatrix ();
 
 
 
-//star5
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-5,5, 0.0);
@@ -141,7 +141,7 @@ glutSolidSphere (0.1, 5, 30);
 glPopMatrix ();
 
 
-//star6
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-6.5,5., 0.0);
@@ -152,7 +152,7 @@ glRotatef       (90.0, 1,0,0);
 glutSolidSphere (0.1, 5, 30);
 glPopMatrix ();
 
-//star7
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-7.6,4.7, 0.0);
@@ -164,7 +164,7 @@ glutSolidSphere (0.1, 5, 30);
 glPopMatrix ();
 
 
-//star8
+// small star
 glColor3f (1.0, 1.0, 0.19);
 glPushMatrix ();
 glTranslatef    (-8,4, 0.0);
