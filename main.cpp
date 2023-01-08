@@ -177,7 +177,7 @@ glPopMatrix ();
 
 
 
-//---------------------------//
+//------------end of the stars---------------//
 
 //planet1
  glPushMatrix();
