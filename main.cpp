@@ -36,7 +36,7 @@ void reshapeFunc (int w, int h)
 }
 void planetmap()
 {
-    //planet1
+    // 1st planet
  glPushMatrix();
  glColor3f(0.94, 0.86, 0.51);
 
