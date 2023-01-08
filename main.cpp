@@ -179,7 +179,7 @@ glPopMatrix ();
 
 //---------------------------//
 
-//pink planet
+//planet1
  glPushMatrix();
 glColor3f(1.0, 0.33, 0.64);
  glTranslatef(-11,-5,1);
