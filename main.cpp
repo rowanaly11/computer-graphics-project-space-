@@ -190,7 +190,8 @@ glColor3f(1.0, 0.33, 0.64);
 
 
 
- //1
+ // the spheres in the planet//
+//1
  glPushMatrix();
 glColor3f(1.0, 0.33, 0.64);
  glTranslatef(-6.4,-3,1);
