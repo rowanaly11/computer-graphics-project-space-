@@ -46,7 +46,7 @@ glRotatef(zRotated, 0,0,1);
  glPopMatrix();
 
 
- //ring
+ // the ring of the planet
  glPushMatrix();
 glColor3f(0.94, 0.86, 0.51);
  glRotatef(60,1,0,0);
